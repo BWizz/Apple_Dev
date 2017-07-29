@@ -7,29 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D3E4BE7B1F2AC76A00D14CE3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E4BE7A1F2AC76A00D14CE3 /* AppDelegate.swift */; };
-		D3E4BE7D1F2AC76A00D14CE3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E4BE7C1F2AC76A00D14CE3 /* ViewController.swift */; };
-		D3E4BE801F2AC76A00D14CE3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3E4BE7E1F2AC76A00D14CE3 /* Main.storyboard */; };
-		D3E4BE821F2AC76A00D14CE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3E4BE811F2AC76A00D14CE3 /* Assets.xcassets */; };
-		D3E4BE851F2AC76A00D14CE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3E4BE831F2AC76A00D14CE3 /* LaunchScreen.storyboard */; };
-		D3FE7D341F2CED4F00F52B20 /* Ellie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3FE7D331F2CED4F00F52B20 /* Ellie.jpg */; };
-		D3FE7D361F2CEF5300F52B20 /* Ellie2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3FE7D351F2CEF5300F52B20 /* Ellie2.jpg */; };
+		D3FE7D441F2CF54000F52B20 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FE7D431F2CF54000F52B20 /* AppDelegate.swift */; };
+		D3FE7D461F2CF54000F52B20 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FE7D451F2CF54000F52B20 /* ViewController.swift */; };
+		D3FE7D491F2CF54000F52B20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3FE7D471F2CF54000F52B20 /* Main.storyboard */; };
+		D3FE7D4B1F2CF54000F52B20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3FE7D4A1F2CF54000F52B20 /* Assets.xcassets */; };
+		D3FE7D4E1F2CF54000F52B20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3FE7D4C1F2CF54000F52B20 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D3E4BE771F2AC76A00D14CE3 /* InterfaceBuilderBasics.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InterfaceBuilderBasics.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D3E4BE7A1F2AC76A00D14CE3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D3E4BE7C1F2AC76A00D14CE3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D3E4BE7F1F2AC76A00D14CE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D3E4BE811F2AC76A00D14CE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D3E4BE841F2AC76A00D14CE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D3E4BE861F2AC76A00D14CE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D3FE7D331F2CED4F00F52B20 /* Ellie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ellie.jpg; sourceTree = "<group>"; };
-		D3FE7D351F2CEF5300F52B20 /* Ellie2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ellie2.jpg; sourceTree = "<group>"; };
+		D3FE7D401F2CF53F00F52B20 /* myFlashlightApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myFlashlightApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D3FE7D431F2CF54000F52B20 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D3FE7D451F2CF54000F52B20 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D3FE7D481F2CF54000F52B20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D3FE7D4A1F2CF54000F52B20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D3FE7D4D1F2CF54000F52B20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D3FE7D4F1F2CF54000F52B20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D3E4BE741F2AC76A00D14CE3 /* Frameworks */ = {
+		D3FE7D3D1F2CF53F00F52B20 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,75 +35,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D3E4BE6E1F2AC76A00D14CE3 = {
+		D3FE7D371F2CF53F00F52B20 = {
 			isa = PBXGroup;
 			children = (
-				D3E4BE791F2AC76A00D14CE3 /* InterfaceBuilderBasics */,
-				D3E4BE781F2AC76A00D14CE3 /* Products */,
+				D3FE7D421F2CF53F00F52B20 /* myFlashlightApp */,
+				D3FE7D411F2CF53F00F52B20 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D3E4BE781F2AC76A00D14CE3 /* Products */ = {
+		D3FE7D411F2CF53F00F52B20 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D3E4BE771F2AC76A00D14CE3 /* InterfaceBuilderBasics.app */,
+				D3FE7D401F2CF53F00F52B20 /* myFlashlightApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D3E4BE791F2AC76A00D14CE3 /* InterfaceBuilderBasics */ = {
+		D3FE7D421F2CF53F00F52B20 /* myFlashlightApp */ = {
 			isa = PBXGroup;
 			children = (
-				D3E4BE7A1F2AC76A00D14CE3 /* AppDelegate.swift */,
-				D3E4BE7C1F2AC76A00D14CE3 /* ViewController.swift */,
-				D3E4BE7E1F2AC76A00D14CE3 /* Main.storyboard */,
-				D3E4BE811F2AC76A00D14CE3 /* Assets.xcassets */,
-				D3E4BE831F2AC76A00D14CE3 /* LaunchScreen.storyboard */,
-				D3E4BE861F2AC76A00D14CE3 /* Info.plist */,
-				D3FE7D331F2CED4F00F52B20 /* Ellie.jpg */,
-				D3FE7D351F2CEF5300F52B20 /* Ellie2.jpg */,
+				D3FE7D431F2CF54000F52B20 /* AppDelegate.swift */,
+				D3FE7D451F2CF54000F52B20 /* ViewController.swift */,
+				D3FE7D471F2CF54000F52B20 /* Main.storyboard */,
+				D3FE7D4A1F2CF54000F52B20 /* Assets.xcassets */,
+				D3FE7D4C1F2CF54000F52B20 /* LaunchScreen.storyboard */,
+				D3FE7D4F1F2CF54000F52B20 /* Info.plist */,
 			);
-			path = InterfaceBuilderBasics;
+			path = myFlashlightApp;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D3E4BE761F2AC76A00D14CE3 /* InterfaceBuilderBasics */ = {
+		D3FE7D3F1F2CF53F00F52B20 /* myFlashlightApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D3E4BE891F2AC76A00D14CE3 /* Build configuration list for PBXNativeTarget "InterfaceBuilderBasics" */;
+			buildConfigurationList = D3FE7D521F2CF54000F52B20 /* Build configuration list for PBXNativeTarget "myFlashlightApp" */;
 			buildPhases = (
-				D3E4BE731F2AC76A00D14CE3 /* Sources */,
-				D3E4BE741F2AC76A00D14CE3 /* Frameworks */,
-				D3E4BE751F2AC76A00D14CE3 /* Resources */,
+				D3FE7D3C1F2CF53F00F52B20 /* Sources */,
+				D3FE7D3D1F2CF53F00F52B20 /* Frameworks */,
+				D3FE7D3E1F2CF53F00F52B20 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = InterfaceBuilderBasics;
-			productName = InterfaceBuilderBasics;
-			productReference = D3E4BE771F2AC76A00D14CE3 /* InterfaceBuilderBasics.app */;
+			name = myFlashlightApp;
+			productName = myFlashlightApp;
+			productReference = D3FE7D401F2CF53F00F52B20 /* myFlashlightApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D3E4BE6F1F2AC76A00D14CE3 /* Project object */ = {
+		D3FE7D381F2CF53F00F52B20 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = "brian Wisniewski";
 				TargetAttributes = {
-					D3E4BE761F2AC76A00D14CE3 = {
+					D3FE7D3F1F2CF53F00F52B20 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = W24P34X85A;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = D3E4BE721F2AC76A00D14CE3 /* Build configuration list for PBXProject "InterfaceBuilderBasics" */;
+			buildConfigurationList = D3FE7D3B1F2CF53F00F52B20 /* Build configuration list for PBXProject "myFlashlightApp" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -115,56 +109,54 @@
 				en,
 				Base,
 			);
-			mainGroup = D3E4BE6E1F2AC76A00D14CE3;
-			productRefGroup = D3E4BE781F2AC76A00D14CE3 /* Products */;
+			mainGroup = D3FE7D371F2CF53F00F52B20;
+			productRefGroup = D3FE7D411F2CF53F00F52B20 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D3E4BE761F2AC76A00D14CE3 /* InterfaceBuilderBasics */,
+				D3FE7D3F1F2CF53F00F52B20 /* myFlashlightApp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D3E4BE751F2AC76A00D14CE3 /* Resources */ = {
+		D3FE7D3E1F2CF53F00F52B20 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3E4BE851F2AC76A00D14CE3 /* LaunchScreen.storyboard in Resources */,
-				D3E4BE821F2AC76A00D14CE3 /* Assets.xcassets in Resources */,
-				D3FE7D361F2CEF5300F52B20 /* Ellie2.jpg in Resources */,
-				D3E4BE801F2AC76A00D14CE3 /* Main.storyboard in Resources */,
-				D3FE7D341F2CED4F00F52B20 /* Ellie.jpg in Resources */,
+				D3FE7D4E1F2CF54000F52B20 /* LaunchScreen.storyboard in Resources */,
+				D3FE7D4B1F2CF54000F52B20 /* Assets.xcassets in Resources */,
+				D3FE7D491F2CF54000F52B20 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D3E4BE731F2AC76A00D14CE3 /* Sources */ = {
+		D3FE7D3C1F2CF53F00F52B20 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3E4BE7D1F2AC76A00D14CE3 /* ViewController.swift in Sources */,
-				D3E4BE7B1F2AC76A00D14CE3 /* AppDelegate.swift in Sources */,
+				D3FE7D461F2CF54000F52B20 /* ViewController.swift in Sources */,
+				D3FE7D441F2CF54000F52B20 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D3E4BE7E1F2AC76A00D14CE3 /* Main.storyboard */ = {
+		D3FE7D471F2CF54000F52B20 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D3E4BE7F1F2AC76A00D14CE3 /* Base */,
+				D3FE7D481F2CF54000F52B20 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		D3E4BE831F2AC76A00D14CE3 /* LaunchScreen.storyboard */ = {
+		D3FE7D4C1F2CF54000F52B20 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D3E4BE841F2AC76A00D14CE3 /* Base */,
+				D3FE7D4D1F2CF54000F52B20 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -172,7 +164,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D3E4BE871F2AC76A00D14CE3 /* Debug */ = {
+		D3FE7D501F2CF54000F52B20 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -223,7 +215,7 @@
 			};
 			name = Debug;
 		};
-		D3E4BE881F2AC76A00D14CE3 /* Release */ = {
+		D3FE7D511F2CF54000F52B20 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -267,27 +259,27 @@
 			};
 			name = Release;
 		};
-		D3E4BE8A1F2AC76A00D14CE3 /* Debug */ = {
+		D3FE7D531F2CF54000F52B20 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = W24P34X85A;
-				INFOPLIST_FILE = InterfaceBuilderBasics/Info.plist;
+				INFOPLIST_FILE = myFlashlightApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Bwizz.InterfaceBuilderBasics;
+				PRODUCT_BUNDLE_IDENTIFIER = Bwizz.myFlashlightApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
-		D3E4BE8B1F2AC76A00D14CE3 /* Release */ = {
+		D3FE7D541F2CF54000F52B20 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = W24P34X85A;
-				INFOPLIST_FILE = InterfaceBuilderBasics/Info.plist;
+				INFOPLIST_FILE = myFlashlightApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Bwizz.InterfaceBuilderBasics;
+				PRODUCT_BUNDLE_IDENTIFIER = Bwizz.myFlashlightApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -296,25 +288,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D3E4BE721F2AC76A00D14CE3 /* Build configuration list for PBXProject "InterfaceBuilderBasics" */ = {
+		D3FE7D3B1F2CF53F00F52B20 /* Build configuration list for PBXProject "myFlashlightApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D3E4BE871F2AC76A00D14CE3 /* Debug */,
-				D3E4BE881F2AC76A00D14CE3 /* Release */,
+				D3FE7D501F2CF54000F52B20 /* Debug */,
+				D3FE7D511F2CF54000F52B20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D3E4BE891F2AC76A00D14CE3 /* Build configuration list for PBXNativeTarget "InterfaceBuilderBasics" */ = {
+		D3FE7D521F2CF54000F52B20 /* Build configuration list for PBXNativeTarget "myFlashlightApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D3E4BE8A1F2AC76A00D14CE3 /* Debug */,
-				D3E4BE8B1F2AC76A00D14CE3 /* Release */,
+				D3FE7D531F2CF54000F52B20 /* Debug */,
+				D3FE7D541F2CF54000F52B20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D3E4BE6F1F2AC76A00D14CE3 /* Project object */;
+	rootObject = D3FE7D381F2CF53F00F52B20 /* Project object */;
 }

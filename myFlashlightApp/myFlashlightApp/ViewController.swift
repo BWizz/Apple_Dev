@@ -1,34 +1,34 @@
 //
 //  ViewController.swift
-//  InterfaceBuilderBasics
+//  myFlashlightApp
 //
-//  Created by brian Wisniewski on 7/27/17.
+//  Created by brian Wisniewski on 7/29/17.
 //  Copyright © 2017 brian Wisniewski. All rights reserved.
 //
 
 import UIKit
 
 class ViewController: UIViewController {
-    @IBOutlet weak var myPicture: UIImageView!
-    var flag = true
+    var lightOn = true
+ //   @IBOutlet weak var myButton: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
-    @IBAction func changeImage(_ sender: Any) {
-        flag = !flag
+    @IBAction func buttonPressed(_ sender: Any) {
+        lightOn = !lightOn
         updateUI()
+        
     }
-
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
     func updateUI(){
-        myPicture.image = flag ? UIImage(named: "Ellie2.jpg"): UIImage(named: "Ellie.jpg")
+        
+        view.backgroundColor = lightOn ? .white:.black
+        
+        }
     }
-
-}
-
